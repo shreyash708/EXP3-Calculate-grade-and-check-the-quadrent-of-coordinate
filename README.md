@@ -1,6 +1,6 @@
-Experiment No. 3
+# Title : Grade Calculate and check the Quadrent
 
-Aim:
+# Aim:
 
 To study and implement different types of operators in C++.
 
@@ -8,7 +8,7 @@ Tools Required:
 
 Visual Studio Code (VS Code)
 
-Theory:
+# Theory:
 
 Operators are special symbols in C++ used to perform operations on variables and values. C++ provides a rich set of built-in operators categorized as:
 
@@ -43,7 +43,7 @@ Bitwise Operators : Used to perform operations on bits.
 
 Examples: &, |, ^, ~, <<, >>
 
-Conclusion:
+# Conclusion:
 
 By performing this experiment:
 
